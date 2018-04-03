@@ -1,0 +1,31 @@
+Tugas Algoritma / Pseudocode
+
+Pseudocode Hukum Newton II :
+•	READ var ΣF = m * a;
+•	READ var m = 600 kg;
+•	READ var a = 2 m / s2;
+•	CALCULATE ΣF = 600 kg * 2 m/s2;
+•	DISPLAY ΣF = 1200 m/s2 atau 1200 newton;
+
+Algoritma Tahun Kabisat :
+	Tulis Tahun Kabisat  
+	Jika Tahun Kabisat habis di bagi 400 sama dengan bilangan bulat maka cetak : Ini adalah tahun kabisat ;
+	Jika Tahun Kabisat habis di bagi 100 sama dengan bilangan bulat maka cetak : Ini adalah tahun kabisat ;
+	Jika Tahun Kabisat habis dibagi 4 sama dengan bilangan bulat maka cetak : Ini adalah tahun kabisat ;
+	Jika Tahun Kabisat tidak habis di bagi dengan 400 atau 100 atau 4 atau hasil bagi bukan bilangan bulat maka cetak : Ini bukan tahun kabisat ;
+
+ Pseudocode Laundry Day : 
+o	READ var cucianKotor = 1;
+o	WHILE cucianKotor <= 20 , PRINT : ‘Cucian Kotor ke’ – 1;
+o	cucianKotor + 1;
+o	PRINT : ‘Mesin cuci sudah penuh dan siap dinyalakan’;
+
+Pesudocode Periksa Kuku : 
+ 	READ var siswaKelas = 40;;
+ 	READ var kukuPendek = 36;
+ 	READ var kukuPanjang = 4;
+ 	FOR  var kukuSiswa = 1;  kukuSiswa <= siswaKelas;  kukuSiswa + 1;
+ 	IF kukuSiswa <= kukuPendek;
+                PRINT : ‘Guru memuji siswa/wi’;
+ 	ELSE 
+               PRINT : ‘Guru menghukum siswa/wi’;
